@@ -33,7 +33,7 @@ if __name__=="__main__":
         elif (choice == "3"):
             print("you selected to lists all the task: ")
             for index,task in enumerate(tasks):
-                print(f"Task #{index}. {task})
+                print(f"Task #{index}. {task}")
                 
         elif (choice == "4"):
             break
